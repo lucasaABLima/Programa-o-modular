@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934ffb44-c5e7-43d7-acd3-3e751b842c89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EX01_TDD/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EX01_TDD/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EX01_TDD/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EX01_TDD/DataTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EX01_TDD/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EX01_TDD/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/EX01_TDD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/UML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/UML.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/out/production/EX01_TDD/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/out/production/EX01_TDD/DataTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/out/production/EX01_TDD/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/src/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/src/DataTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX01_TDD/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +61,7 @@
     <session id="-1395018385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -61,13 +72,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
-          <entry key="java" value="9" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -85,6 +96,11 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+        </counts>
+      </usages-collector>
     </session>
     <session id="1474431856">
       <usages-collector id="statistics.lifecycle.project">
@@ -124,19 +140,26 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="842134165">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="EX01_TDD" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#Data#0;class#Data#0" />
                 <element signature="method#Data#1;class#Data#0" />
                 <element signature="method#proximoDia#0;class#Data#0" />
@@ -157,10 +180,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="969">
               <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -187,7 +210,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="master" />
@@ -213,7 +236,7 @@
     <option name="x" value="390" />
     <option name="y" value="215" />
     <option name="width" value="980" />
-    <option name="height" value="749" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -235,6 +258,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -357,6 +381,7 @@
       <workItem from="1534805878829" duration="2422000" />
       <workItem from="1534846104558" duration="3984000" />
       <workItem from="1534855695402" duration="39000" />
+      <workItem from="1534856320931" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="Pronto ex1">
       <created>1534854412026</created>
@@ -376,9 +401,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 07h 28m 55s.xml">
-      <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 07h 29m 55s.xml">
       <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
     </history-entry>
@@ -406,13 +428,15 @@
     <history-entry file="DataTest_testDiaDaSemana - 2018.08.21 at 09h 07m 25s.xml">
       <configuration name="DataTest.testDiaDaSemana" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataTest - 2018.08.21 at 09h 58m 56s.xml">
+      <configuration name="DataTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28522000" />
+    <option name="totallyTimeSpent" value="28652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" weight="0.25100672" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.24899329" />
@@ -423,7 +447,7 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3248227" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3248227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,6 +475,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="Pronto ex1" />
     <option name="LAST_COMMIT_MESSAGE" value="Pronto ex1" />
   </component>
@@ -466,10 +493,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#Data#0;class#Data#0" />
             <element signature="method#Data#1;class#Data#0" />
             <element signature="method#proximoDia#0;class#Data#0" />
@@ -489,7 +515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="969">
           <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
