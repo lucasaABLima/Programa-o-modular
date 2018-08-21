@@ -44,11 +44,7 @@ public class Data {
 
     public boolean eAnoBisexto() {
         boolean eBisexto;
-        if (this.ano % 4 == 0) {
-            eBisexto = true;
-        } else {
-            eBisexto = false;
-        }
+        eBisexto = this.ano % 4 == 0;
         return eBisexto;
     }
 
@@ -75,6 +71,8 @@ public class Data {
                 this.dia = 1;
                 this.mes = 1;
                 this.ano = this.ano + 1;
+            }else{
+                this.dia = this.dia + 1;
             }
         } else {
             if (this.mes == 1 || this.mes == 3 || this.mes == 5 || this.mes == 7 || this.mes == 8 || this.mes == 10) {
@@ -96,10 +94,12 @@ public class Data {
     }
 
     public void adicionaDias(int dias) {
-        this.dia = this.dia + dias;
+        for (int i = 0; i < dias; i++){
+            proximoDia();
+        }
     }
 
-    public int diasNoMes(int mes) {
+    public int diasNoMes() {
 
         int dias;
         if (this.mes == 2) {
@@ -115,7 +115,6 @@ public class Data {
                 dias = 30;
             }
         }
-
         return dias;
     }
 
