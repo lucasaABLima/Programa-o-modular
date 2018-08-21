@@ -6,6 +6,11 @@ public class Conta {
         this.saldo = saldo;
     }
 
+    public Conta(int numConta){
+        this.numConta = numConta;
+        this.saldo = 0;
+    }
+
     public Conta(){
         this.numConta = 0;
         this.saldo = 0;

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="934ffb44-c5e7-43d7-acd3-3e751b842c89" name="Default Changelist" comment="" />
+    <list default="true" id="934ffb44-c5e7-43d7-acd3-3e751b842c89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../EX03_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX03_TDD/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX03_TDD/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,9 +140,10 @@
     <session id="-621701543">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -148,7 +153,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Data.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -165,7 +170,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -226,9 +231,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="390" />
-    <option name="y" value="215" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="136" />
     <option name="width" value="980" />
     <option name="height" value="750" />
   </component>
@@ -239,6 +244,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,7 +262,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DataTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="EX01_TDD" />
@@ -398,6 +403,7 @@
       <workItem from="1534856320931" duration="704000" />
       <workItem from="1534857123904" duration="3000" />
       <workItem from="1534879151976" duration="129000" />
+      <workItem from="1534886731448" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="Pronto ex1">
       <created>1534854412026</created>
@@ -417,9 +423,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 07h 29m 55s.xml">
-      <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 07h 30m 30s.xml">
       <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
     </history-entry>
@@ -447,14 +450,18 @@
     <history-entry file="DataTest - 2018.08.21 at 09h 58m 56s.xml">
       <configuration name="DataTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataTest - 2018.08.21 at 18h 25m 42s.xml">
+      <configuration name="DataTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29390000" />
+    <option name="totallyTimeSpent" value="29412000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="39" y="136" width="980" height="750" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.25053304" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" weight="0.5163044" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.24899329" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -463,7 +470,7 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3248227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32467532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,13 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -532,6 +532,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d34f2aea-17f9-417f-aef8-3dd4824a8408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaTest.java" afterDir="false" />
+    <list default="true" id="d34f2aea-17f9-417f-aef8-3dd4824a8408" name="Default Changelist" comment="Pronto">
+      <change beforePath="$PROJECT_DIR$/../EX01_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX01_TDD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX03_TDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EX03_TDD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,25 +18,26 @@
     <session id="2027986527">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
-          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.create.new" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1254" />
-          <entry key="txt" value="6" />
+          <entry key="java" value="2032" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1254" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="2032" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,36 +57,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-              <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -93,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ContaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            <state relative-caret-position="425">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,7 +107,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="ex2TDD" />
+        <entry key="$PROJECT_DIR$/../.." value="ex3TDD" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -134,6 +119,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/ContaTest.java" />
         <option value="$PROJECT_DIR$/src/Conta.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -144,8 +130,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="179" />
+    <option name="x" value="302" />
+    <option name="y" value="166" />
     <option name="width" value="977" />
     <option name="height" value="786" />
   </component>
@@ -156,27 +142,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EX03_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX03_TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EX03_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX03_TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -184,11 +150,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534885620916" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534886816539" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EX02_TDD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EX01_TDD" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -210,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContaTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="EX03_TDD" />
@@ -235,6 +201,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ContaTest" />
       </list>
     </recent_temporary>
@@ -249,7 +216,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534880097366</updated>
-      <workItem from="1534880098901" duration="5462000" />
+      <workItem from="1534880098901" duration="5598000" />
+      <workItem from="1534885751845" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <created>1534880156766</created>
@@ -258,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534880156766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pronto">
+      <created>1534885667110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534885667110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -288,40 +263,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5462000" />
+    <option name="totallyTimeSpent" value="6651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="179" width="977" height="786" extended-state="0" />
+    <frame x="302" y="166" width="977" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.5114504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32822084" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3297546" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297546" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32668713" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,20 +307,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio" />
+    <MESSAGE value="Pronto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pronto" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../EX02_TDD/src/PessoaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -358,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ContaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        <state relative-caret-position="425">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -368,20 +333,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Conta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
         </state>
       </provider>
     </entry>
