@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934ffb44-c5e7-43d7-acd3-3e751b842c89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../EX03_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX03_TDD/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX03_TDD/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX04_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX04_TDD/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,10 +140,11 @@
     <session id="-621701543">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -242,27 +243,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EX01_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX01_TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EX01_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX01_TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -274,7 +255,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EX03_TDD" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -299,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.DataTest">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="EX01_TDD" />
@@ -404,6 +385,7 @@
       <workItem from="1534857123904" duration="3000" />
       <workItem from="1534879151976" duration="129000" />
       <workItem from="1534886731448" duration="22000" />
+      <workItem from="1534898098657" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="Pronto ex1">
       <created>1534854412026</created>
@@ -423,9 +405,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 07h 30m 30s.xml">
-      <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 09h 01m 53s.xml">
       <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
     </history-entry>
@@ -453,13 +432,15 @@
     <history-entry file="DataTest - 2018.08.21 at 18h 25m 42s.xml">
       <configuration name="DataTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataTest - 2018.08.21 at 21h 35m 08s.xml">
+      <configuration name="DataTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29412000" />
+    <option name="totallyTimeSpent" value="29446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="136" width="980" height="750" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" weight="0.5163044" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.24899329" />
