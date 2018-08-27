@@ -34,6 +34,7 @@ public class Main {
             }
             System.out.println("Deseja sair?(Sim[1]/Não[2])");
             desejaSair = sc.nextInt() == 1;
+            System.out.println(conta.getId());
         }while(!desejaSair);
     }
 }

@@ -1,19 +1,27 @@
 public class Conta {
     private int numConta, saldo;
+    private static int id=0;
 
     public Conta(int numConta, int saldo) {
         this.numConta = numConta;
         this.saldo = saldo;
+        id++;
     }
 
     public Conta(int numConta){
         this.numConta = numConta;
         this.saldo = 0;
+        id++;
     }
 
     public Conta(){
         this.numConta = 0;
         this.saldo = 0;
+        id++;
+    }
+
+    public static int getId() {
+        return id;
     }
 
     public int getNumConta() {
