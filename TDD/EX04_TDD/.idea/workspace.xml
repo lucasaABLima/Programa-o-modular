@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e88425c1-5201-4250-93c1-0dcb1fec02da" name="Default Changelist" comment="" />
+    <list default="true" id="e88425c1-5201-4250-93c1-0dcb1fec02da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../TDD.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX01_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX01_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX01_TDD/src/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX01_TDD/src/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX02_TDD/src/Main-Steelblade.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +49,15 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
+    <session id="-1317150410">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -50,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -67,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ConversorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="66" column="42" lean-forward="true" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+            <state relative-caret-position="850">
+              <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1386#1387#0" expanded="true" />
@@ -111,11 +126,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="129" />
-    <option name="width" value="977" />
-    <option name="height" value="786" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="128" />
+    <option name="width" value="978" />
+    <option name="height" value="787" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -134,7 +149,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EX01_TDD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -211,6 +226,7 @@
       <workItem from="1534885736363" duration="12000" />
       <workItem from="1534887197070" duration="7472000" />
       <workItem from="1534897601414" duration="493000" />
+      <workItem from="1534942618423" duration="8000" />
     </task>
     <servers />
   </component>
@@ -247,10 +263,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7977000" />
+    <option name="totallyTimeSpent" value="7985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="129" width="977" height="786" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25517994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -292,6 +309,13 @@
     <entry file="file://$PROJECT_DIR$/../EX03_TDD/src/Conta.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Conversor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -299,17 +323,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConversorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="66" column="42" lean-forward="true" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+        <state relative-caret-position="850">
+          <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1386#1387#0" expanded="true" />

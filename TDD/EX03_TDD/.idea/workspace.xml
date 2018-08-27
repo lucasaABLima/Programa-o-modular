@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34f2aea-17f9-417f-aef8-3dd4824a8408" name="Default Changelist" comment="Pronto">
+      <change beforePath="$PROJECT_DIR$/../../TDD.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EX01_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX01_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX01_TDD/out/production/EX01_TDD/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX01_TDD/out/production/EX01_TDD/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX01_TDD/src/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX01_TDD/src/Data.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX02_TDD/src/Main-Steelblade.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EX04_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX04_TDD/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -18,9 +22,10 @@
     <session id="2027986527">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -55,13 +60,22 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
+    <session id="-115330453">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
+            <state relative-caret-position="527">
               <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
             </state>
           </provider>
@@ -70,16 +84,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ContaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="425">
               <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,6 +120,7 @@
     <findStrings>
       <find>numeroConta</find>
       <find>RetirarSaldo</find>
+      <find>setSaldo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,11 +149,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
     <option name="y" value="165" />
-    <option name="width" value="977" />
-    <option name="height" value="786" />
+    <option name="width" value="979" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -143,46 +162,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EX03_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX03_TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EX03_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX03_TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EX03_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX03_TDD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EX03_TDD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EX03_TDD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -261,6 +241,9 @@
       <workItem from="1534880098901" duration="5598000" />
       <workItem from="1534885751845" duration="1053000" />
       <workItem from="1534898136570" duration="15000" />
+      <workItem from="1534942703019" duration="115000" />
+      <workItem from="1534943381581" duration="16000" />
+      <workItem from="1535202956680" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <created>1534880156766</created>
@@ -312,10 +295,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6883000" />
+    <option name="totallyTimeSpent" value="7624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="165" width="977" height="786" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5114504" />
@@ -364,29 +347,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" lean-forward="true" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="527">
           <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Conta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ContaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="425">
           <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />

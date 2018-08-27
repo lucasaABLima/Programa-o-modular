@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934ffb44-c5e7-43d7-acd3-3e751b842c89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../TDD.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EX01_TDD/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EX01_TDD/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX02_TDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX02_TDD/src/Main-Steelblade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX03_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX03_TDD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EX04_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EX04_TDD/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -131,11 +137,31 @@
     <session id="842134165">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="867" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="867" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.types.open" />
     </session>
     <session id="-621701543">
       <usages-collector id="statistics.lifecycle.project">
@@ -157,34 +183,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="-55">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
-                <element signature="method#Data#0;class#Data#0" />
-                <element signature="method#Data#1;class#Data#0" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#eAnoBisexto#0;class#Data#0" />
                 <element signature="method#proximoDia#0;class#Data#0" />
                 <element signature="method#adicionaDias#0;class#Data#0" />
                 <element signature="method#diasNoMes#0;class#Data#0" />
                 <element signature="method#diaDaSemana#0;class#Data#0" />
+                <element signature="method#porExetenso#0;class#Data#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            <state relative-caret-position="81">
+              <caret line="89" column="74" selection-start-line="89" selection-start-column="74" selection-end-line="89" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -221,8 +239,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/DataTest.java" />
         <option value="$PROJECT_DIR$/src/Data.java" />
+        <option value="$PROJECT_DIR$/src/DataTest.java" />
       </list>
     </option>
   </component>
@@ -233,8 +251,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="136" />
+    <option name="x" value="758" />
+    <option name="y" value="217" />
     <option name="width" value="980" />
     <option name="height" value="750" />
   </component>
@@ -251,7 +269,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534879168959" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535390015780" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -280,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DataTest">
+  <component name="RunManager" selected="JUnit.DataTest.testPorExtenso">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="EX01_TDD" />
@@ -292,16 +310,6 @@
       <module name="EX01_TDD" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DataTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataTest.testAdicionaDias" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EX01_TDD" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DataTest" />
-      <option name="METHOD_NAME" value="testAdicionaDias" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -346,22 +354,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DataTest.testPorExtenso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX01_TDD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DataTest" />
+      <option name="METHOD_NAME" value="testPorExtenso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.DataTest" />
-      <item itemvalue="JUnit.DataTest.testAdicionaDias" />
       <item itemvalue="JUnit.DataTest.testAdicionaDias_proximoMês" />
       <item itemvalue="JUnit.DataTest.testAdicionaDias_proximoAno" />
       <item itemvalue="JUnit.DataTest.testDiasNoMes" />
       <item itemvalue="JUnit.DataTest.testDiaDaSemana" />
+      <item itemvalue="JUnit.DataTest.testPorExtenso" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DataTest.testPorExtenso" />
         <item itemvalue="JUnit.DataTest.testDiaDaSemana" />
         <item itemvalue="JUnit.DataTest.testDiasNoMes" />
         <item itemvalue="JUnit.DataTest.testAdicionaDias_proximoAno" />
         <item itemvalue="JUnit.DataTest.testAdicionaDias_proximoMês" />
-        <item itemvalue="JUnit.DataTest.testAdicionaDias" />
       </list>
     </recent_temporary>
   </component>
@@ -386,6 +404,12 @@
       <workItem from="1534879151976" duration="129000" />
       <workItem from="1534886731448" duration="22000" />
       <workItem from="1534898098657" duration="34000" />
+      <workItem from="1534941216496" duration="1371000" />
+      <workItem from="1534942825036" duration="554000" />
+      <workItem from="1534943404266" duration="532000" />
+      <workItem from="1535114142516" duration="596000" />
+      <workItem from="1535211546754" duration="17000" />
+      <workItem from="1535387339529" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="Pronto ex1">
       <created>1534854412026</created>
@@ -405,15 +429,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataTest_testAdicionaDias_proximoAno - 2018.08.21 at 09h 01m 53s.xml">
-      <configuration name="DataTest.testAdicionaDias_proximoAno" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataTest - 2018.08.21 at 09h 02m 00s.xml">
-      <configuration name="DataTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataTest_testDiasNoMes - 2018.08.21 at 09h 04m 18s.xml">
-      <configuration name="DataTest.testDiasNoMes" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataTest_testDiasNoMes - 2018.08.21 at 09h 05m 36s.xml">
       <configuration name="DataTest.testDiasNoMes" configurationId="JUnit" />
     </history-entry>
@@ -435,12 +450,22 @@
     <history-entry file="DataTest - 2018.08.21 at 21h 35m 08s.xml">
       <configuration name="DataTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataTest - 2018.08.22 at 10h 18m 29s.xml">
+      <configuration name="DataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_testPorExtenso - 2018.08.27 at 14h 11m 01s.xml">
+      <configuration name="DataTest.testPorExtenso" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_testPorExtenso - 2018.08.27 at 14h 11m 33s.xml">
+      <configuration name="DataTest.testPorExtenso" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29446000" />
+    <option name="totallyTimeSpent" value="34819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="136" width="980" height="750" extended-state="0" />
+    <frame x="607" y="174" width="784" height="600" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" weight="0.5163044" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.24899329" />
@@ -451,7 +476,7 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32467532" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32334048" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,35 +516,36 @@
     <entry file="file://$PROJECT_DIR$/../../Arquivos uteis/MainActivity.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.0-RC1/junit-jupiter-api-5.3.0-RC1.jar!/org/junit/jupiter/api/Assertions.class" />
     <entry file="file://$USER_HOME$/Desktop/Data.class" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="-55">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="method#Data#0;class#Data#0" />
-            <element signature="method#Data#1;class#Data#0" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#eAnoBisexto#0;class#Data#0" />
             <element signature="method#proximoDia#0;class#Data#0" />
             <element signature="method#adicionaDias#0;class#Data#0" />
             <element signature="method#diasNoMes#0;class#Data#0" />
             <element signature="method#diaDaSemana#0;class#Data#0" />
+            <element signature="method#porExetenso#0;class#Data#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        <state relative-caret-position="81">
+          <caret line="89" column="74" selection-start-line="89" selection-start-column="74" selection-end-line="89" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>

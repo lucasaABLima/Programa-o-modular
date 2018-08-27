@@ -84,4 +84,12 @@ class DataTest {
         assertEquals("sábado", d.diaDaSemana());
     }
 
+    @Test
+    void testPorExtenso(){
+        d = new Data(1, 1, 2000);
+        assertEquals("1 de janeiro de 2000", d.porExtenso(), "Para janeiro");
+        d.setMes(4);
+        assertEquals("1 de abril de 2000", d.porExtenso(), "Para abril");
+    }
+
 }
